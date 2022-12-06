@@ -1,4 +1,4 @@
-# tugasDelegateDanEvent
+# TugasDelegateDanEvent
 - NAMA : FIRRESA ALIF NURRAHMAN
 - NIM : 21.11.4104  
 - KELAS : 21 IF 04 
